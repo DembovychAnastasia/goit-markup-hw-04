@@ -164,7 +164,6 @@ section {
 /* --------hero--------- */
 .hero {
   background-color: var(--accent-bgc);
-  margin-top: 0;
   padding-top: 200px;
   padding-bottom: 200px;
   background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
